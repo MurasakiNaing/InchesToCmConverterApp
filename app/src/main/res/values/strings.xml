@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InchesToCentimeters</string>
+    <string name="button_convert">Convert</string>
+    <string name="switch_unit">Switch Unit</string>
+    <string name="result_text_message">Please enter inches value.</string>
+    <string name="inches_hint">Enter inches</string>
+    <string name="cm_hint">Enter centimeter</string>
+
+</resources>
